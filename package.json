@@ -1,0 +1,16 @@
+{
+  "name": "sunucukur",
+  "version": "0.0.1",
+  "description": "",
+  "main": "sunucu.js",
+  "scripts": {
+    "test": "node sunucu.js"
+  },
+  "author": "swordres",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
